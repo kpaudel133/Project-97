@@ -1,0 +1,23 @@
+body
+{
+background-image: linear-gradient(to right top, #a2adff, #92a9fd, #7b8fff, #5160ff, #0000ff);
+text-align: center;
+}
+
+#one{
+    padding:10;
+    }
+ img{
+     width: 200px;
+ }
+
+ p{
+    color: white;
+    padding-left: 250;
+    padding-right: 250;
+    font-size: 17px;
+}
+
+h3,h1,a{
+    color: white;
+}

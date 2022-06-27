@@ -1,0 +1,23 @@
+body
+{
+background-image: linear-gradient(to right top, #71fa01, #8affa2, #a8fbec, #72d4fe, #6e7fff);
+text-align: center;
+}
+
+#one{
+padding:10;
+}
+
+img{
+    width: 15%;
+}
+
+a{
+    color: blue;
+}
+
+p{
+    padding-left: 250;
+    padding-right: 250;
+    font-size: 17px;
+}
